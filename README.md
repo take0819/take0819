@@ -1,6 +1,5 @@
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=take0819&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=take0819&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=take0819&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=take0819&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=take0819&theme=gruvbox&utcOffset=9)
+### Stats
+[![](https://raw.githubusercontent.com/take0819/take0819/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/take0819/take0819/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/take0819/take0819/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/take0819/take0819/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/take0819/take0819/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-profile-trophy.vercel.app/?username=take0819&no-frame=true&theme=tokyonight)
